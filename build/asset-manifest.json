@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c97a5674.css",
+    "main.js": "/static/js/main.aeb0be29.js",
+    "static/js/787.e14edb64.chunk.js": "/static/js/787.e14edb64.chunk.js",
+    "static/media/about-cred.mp4": "/static/media/about-cred.403c98ab2021264af5bf.mp4",
+    "static/media/betting.png": "/static/media/betting.89d38de88e8dcae78a15.png",
+    "index.html": "/index.html",
+    "main.c97a5674.css.map": "/static/css/main.c97a5674.css.map",
+    "main.aeb0be29.js.map": "/static/js/main.aeb0be29.js.map",
+    "787.e14edb64.chunk.js.map": "/static/js/787.e14edb64.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c97a5674.css",
+    "static/js/main.aeb0be29.js"
+  ]
+}
